@@ -9,7 +9,7 @@ COPY [ "Pipfile", "Pipfile.lock", "./" ]
 
 RUN pipenv install --system --deploy
 
-COPY [ "predict.py", "model.bin", "./" ]
+COPY [ "predict.py", "models/model.bin", "./" ]
 
 EXPOSE 9696
 
