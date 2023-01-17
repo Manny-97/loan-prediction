@@ -5,4 +5,4 @@ This project will simulate the entire process that data-driven companies do to m
 __The project will include processing and transforming data, loading, and finally, analysis, model building, and descision making.__
 
 ### Loan status
-![on_localhost](images/Screenshot 2023-01-17 at 12.09.23.png)
+![on_localhost](./images/Screenshot%202023-01-17%20at%2012.09.23.png)
